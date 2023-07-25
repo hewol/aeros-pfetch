@@ -1163,6 +1163,13 @@ get_ascii() {
 			EOF
         ;;
 
+        (aer[Oo][Ss]*)
+            read_ascii 37 <<-EOF
+                ${c37} aerOS v1 Early Stage Beta --------------
+			EOF
+        ;;
+
+
         ([Aa]rch*)
             read_ascii 4 <<-EOF
 				${c6}       /\\
