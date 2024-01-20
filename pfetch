@@ -1165,17 +1165,17 @@ get_ascii() {
 
         (aer[Oo][Ss]*)
             read_ascii 37 <<-EOF
-				${c0}        ooOOoo
-				${c0}     ooO      Ooo
-				${c0}   oo            oo
-				${c0} oo                oo
-				${c0}                    Oo
-				${c0}                    Oo
-				${c0}                    Oo
-				${c0} oo                .o
-				${c0}   oo            .o
-				${c0}     oo.      .oo
-				${c0}        oo..oo
+				${c0}         ooOOoo
+				${c0}     ooO        Ooo
+				${c0}   oo              oo
+				${c0} oo                  oo
+				${c0}                      Oo
+				${c0}                      Oo
+				${c0}                      Oo
+				${c0} oo                  .o
+				${c0}   oo              .o
+				${c0}     oo.        .oo
+				${c0}         oo..oo
 			EOF
         ;;
 
